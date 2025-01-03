@@ -19,7 +19,7 @@ const Hero = () => {
         <div className='flex  items-center justify-center flex-col w-full h-full'>
             <div>
                <h1 className='text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px] tracking-[0.7rem] text-white font-bold uppercase'>
-                Lets Enjoy The Nature...</h1> 
+                Lets Enjoy The Nature......</h1> 
                 <p className='md:text-base'></p>
             </div>
         </div>
